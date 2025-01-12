@@ -1,7 +1,7 @@
 # World_Layoffs
 The World Layoffs 2024 Analysis provides an in-depth exploration of global layoff trends in 2024, utilizing SQL for data extraction and cleaning, and Excel for analysis and reporting. This project aims to uncover patterns, causes, and key trends in workforce reductions across various industries, regions, and company sizes.
 
-Objectives
+# Objectives
 Track the frequency and scale of layoffs worldwide throughout 2024.
 Analyze the impact of layoffs on different industries and regions.
 Identify the most affected sectors and businesses, including correlations to economic conditions or restructuring efforts.
